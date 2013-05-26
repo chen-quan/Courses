@@ -1,4 +1,10 @@
-##很难使用的Jekyll
+---
+layout: post
+title: 很难使用的Jekyll
+categories: [instruction]
+tags: [介绍, Jekyll]
+
+#很难使用的Jekyll
 
 ### 羡慕这么多博客家们漂亮的Github博客，一时心痒手痒，想照葫芦画一个。结果是一个字：难！
 - Github倒是容易上手
