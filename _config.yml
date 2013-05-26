@@ -1,6 +1,6 @@
-markdown: rdiscount
+﻿markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://yihui.name/cn
-author: 谢益辉
+url: http://chen-quan.github.io/cn
+author: Chen Quan
 pygments: true
 

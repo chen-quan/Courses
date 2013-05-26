@@ -8,6 +8,7 @@ comments: yes
 
 姓名拼音排序：
 
+- [谢益辉](http://yihui.name/) 希望之星，以下内容出自他的网站。
 - [陈钢](http://www.gossipcoder.com/) 中南大学，useR，生物信息学，译者
 - [陈丽云](http://www.loyhome.cn/) 山东大学，经济学，网站控，useR
 - [范建宁](http://blog.cos.name/fan) 川大人大，量化投资，useR，许三多
