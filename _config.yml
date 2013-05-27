@@ -1,6 +1,6 @@
 ﻿markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://chen-quan.github.io/cn
+url: http://chen-quan.github.io/Courses
 author: Chen Quan
 pygments: true
 
