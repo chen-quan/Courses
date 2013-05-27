@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Courses：Network Economy | Macroeconomics | Econometrics
 layout: page
 ---
 
