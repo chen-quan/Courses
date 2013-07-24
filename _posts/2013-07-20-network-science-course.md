@@ -2,9 +2,10 @@
 layout: post
 title: 网络科学导论
 categories: [network science]
-tags: [complex networks; network science]
+tags: [complex networks, network science]
 
 ---
+
 
 ###上海交大汪小帆老师的[《网络科学导论》课程](http://zhiyuan.sjtu.edu.cn/Course/netsci_course.htm)是研究生的公共课程，看得出来的确是花了功夫的，将其pdf版课件链接至此，加上标题，供大家需要的查阅。
 
